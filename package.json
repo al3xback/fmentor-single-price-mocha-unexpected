@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-single-price-mocha-unexpected",
 	"version": "1.0.0",
-	"description": "single price grid component using mocha and unexpected testing",
+	"description": "single price grid component using mocha and unexpected",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
